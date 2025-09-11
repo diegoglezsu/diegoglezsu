@@ -9,10 +9,6 @@
 </a>
 </div>
 
-
-### 😄 About Me
-I am a Software and Web Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Asturias, Spain. I am always looking to increase my knowledge and experience, so feel free to contact me and let's do some networking.
-
  <br/>
   <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=diegoglezsu&theme=vision-friendly-dark&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
 
