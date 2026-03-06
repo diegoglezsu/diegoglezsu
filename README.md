@@ -8,16 +8,15 @@
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 </div>
-
  <br/>
-  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=diegoglezsu&theme=vision-friendly-dark&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
 
- <br/>
- <img width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoglezsu&theme=vision-friendly-dark&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
+My name is Diego González. I've been a web engineer in 🇪🇸 for many years. I specialize in backend development and systems integration working with a wide variety of infrastructures including 🤖 AI Systems.
 
- <br/>
-  <img width="490" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoglezsu&theme=vision-friendly-dark&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
-<!--
+I mainly use JavaScript and TypeScript. Sometimes I use Python 🐍, Java ♨️, etc.
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoglezsu&theme=vision-friendly-dark&show_icons=true&hide_border=false&line_height=20&title_color=007bff&icon_color=00438a&show_owner=true"/>
+
+ <!--
 **diegoglezsu/diegoglezsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
