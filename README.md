@@ -1,14 +1,9 @@
 ## Hi there 👋
 
-<div id="badges">
-<a href="[your-linkedin-URL](https://www.linkedin.com/in/diego-gonz%C3%A1lez-su%C3%A1rez-64b2371b1/)">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="[your-twitter-URL](https://x.com/diegogs__)">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
-</div>
- <br/>
+[![ORCID Badge](https://img.shields.io/badge/ORCID-b2cb58?style=flat-square&logo=orcid&logoColor=black)](https://orcid.org/0009-0004-6388-5333)
+[![X.com Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/diegogs__)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gonz%C3%A1lez-su%C3%A1rez-64b2371b1/)
+
 
 My name is Diego González. I've been a web engineer in 🇪🇸 for many years. I specialize in backend development and systems integration working with a wide variety of infrastructures including 🤖 AI Systems.
 
