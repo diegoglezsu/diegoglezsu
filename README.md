@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gonz%C3%A1lez-su%C3%A1rez-64b2371b1/)
 
 
-My name is Diego González. I've been a web engineer in 🇪🇸 for many years. I specialize in backend development and systems integration working with a wide variety of infrastructures including 🤖 AI Systems.
+My name is Diego González. I've been a web engineer in 🇪🇸 for many years. I specialize in backend development and systems integration working with a wide variety of infrastructures.
 
 I mainly use JavaScript and TypeScript. Sometimes I use Python 🐍, Java ♨️, etc.
 
